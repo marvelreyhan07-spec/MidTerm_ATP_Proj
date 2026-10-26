@@ -188,8 +188,6 @@ void prosesPesanan(Produk *produk, int jumlahProduk,
         int nomorProduk;
         int jumlahBeli;
      
-
-
         nomorProduk = bacaInt("\nMasukkan nomor produk: ");
         // Memeriksa nomor produk
         // Mengubah nomor produk menjadi indeks array
